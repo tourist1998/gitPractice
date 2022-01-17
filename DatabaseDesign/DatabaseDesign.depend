@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1623503692 source:c:\users\satya\downloads\telegram desktop\databasedesign\driver.cpp
+	<bits/stdc++.h>
+	"Database.h"
+
+1623490115 c:\users\satya\downloads\telegram desktop\databasedesign\include\database.h
+	"Table.h"
+	"Column.h"
+	<bits/stdc++.h>
+
+1623503433 c:\users\satya\downloads\telegram desktop\databasedesign\include\table.h
+	"Column.h"
+	"Row.h"
+	<bits/stdc++.h>
+
+1623490847 c:\users\satya\downloads\telegram desktop\databasedesign\include\column.h
+	<bits/stdc++.h>
+
+1623503819 source:c:\users\satya\downloads\telegram desktop\databasedesign\src\row.cpp
+	"Row.h"
+
+1623503848 c:\users\satya\downloads\telegram desktop\databasedesign\include\row.h
+	<bits/stdc++.h>
+
+1623489782 source:c:\users\satya\downloads\telegram desktop\databasedesign\src\database.cpp
+	"Database.h"
+
+1623490529 source:c:\users\satya\downloads\telegram desktop\databasedesign\src\column.cpp
+	"Column.h"
+
+1623503819 source:c:\users\satya\downloads\telegram desktop\databasedesign\src\table.cpp
+	"Table.h"
+
+1623603543 source:d:\machinecoding\databasedesign\driver.cpp
+	<bits/stdc++.h>
+	"Database.h"
+
+1623490115 d:\machinecoding\databasedesign\include\database.h
+	"Table.h"
+	"Column.h"
+	<bits/stdc++.h>
+
+1623606455 d:\machinecoding\databasedesign\include\table.h
+	"Column.h"
+	"Row.h"
+	<bits/stdc++.h>
+
+1623595642 d:\machinecoding\databasedesign\include\column.h
+	<bits/stdc++.h>
+
+1623503848 d:\machinecoding\databasedesign\include\row.h
+	<bits/stdc++.h>
+
+1623489782 source:d:\machinecoding\databasedesign\src\database.cpp
+	"Database.h"
+
+1623503819 source:d:\machinecoding\databasedesign\src\row.cpp
+	"Row.h"
+
+1623595650 source:d:\machinecoding\databasedesign\src\column.cpp
+	"Column.h"
+
